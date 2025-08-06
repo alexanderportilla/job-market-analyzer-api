@@ -248,4 +248,4 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 
 **Desarrollado con ❤️ por Alexander Portilla**
 
-*Transformando el análisis del mercado laboral en una experiencia premium* 
+*Transformando el análisis del mercado laboral en una experiencia premium*
