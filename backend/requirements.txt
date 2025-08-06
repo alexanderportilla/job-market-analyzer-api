@@ -1,0 +1,49 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pandas
+beautifulsoup4
+requests
+mysql-connector-python
+
+# API Enhancements
+python-multipart
+python-jose[cryptography]
+passlib[bcrypt]
+python-dotenv
+
+# Data Analysis & ML
+numpy
+scikit-learn
+matplotlib
+seaborn
+
+# Background Tasks & Scheduling
+celery
+redis
+APScheduler
+
+# Testing
+pytest
+pytest-asyncio
+httpx
+pytest-cov
+
+# Development
+black
+flake8
+mypy
+pre-commit
+
+# Production
+gunicorn
+# uvloop  # Not compatible with Windows
+
+# Monitoring & Logging
+structlog
+prometheus-client
+
+# Export & Reports
+openpyxl
+reportlab
+jinja2
